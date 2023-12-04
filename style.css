@@ -1,0 +1,15 @@
+body{
+
+    text-align: center;
+    color: rgb(75, 54, 85);
+    background-color: rgb(138, 224, 205);
+}
+
+.titulo {
+    font-feature-settings: "abvs";
+    color: rgba(4, 0, 255, 0.863);
+}
+
+.subtitulo {
+font-weight: 300; 
+}
